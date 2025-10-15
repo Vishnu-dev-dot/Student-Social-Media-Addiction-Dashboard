@@ -1,6 +1,9 @@
 # Student-Social-Media-Addiction-Dashboard
 This project analyzes and visualizes data related to students' social media usage patterns to understand the impact of social media on academic performance, mental health, and daily habits.
 
+YOU CAN FIND THE DATASET FROM THE BELOW LINK FROM KAGGLE.
+LINK--> https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
+
 📊 Project Overview
 
 The Power BI Dashboard provides insights into:
